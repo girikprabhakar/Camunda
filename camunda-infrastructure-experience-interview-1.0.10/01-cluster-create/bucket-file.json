@@ -1,0 +1,3 @@
+{
+    "content": "dummy configuration file for the application, to be stored in the Localstack S3 bucket"
+}
